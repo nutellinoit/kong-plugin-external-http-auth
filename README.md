@@ -1,4 +1,4 @@
-# Kong External Auth
+# kong-plugin-external-http-auth
 
 Kong plugin to authenticate requests using http services.
 
@@ -50,7 +50,7 @@ Inspired on Ambassador's auth service
 
 https://www.getambassador.io/reference/services/auth-service
 
-## Author
+## Original Author
 Pablo Romanelli
 
 ## License
